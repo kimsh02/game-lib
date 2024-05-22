@@ -1,4 +1,4 @@
-// LoL base.cpp : Define as funções exportadas para a aplicação DLL.
+// LoL base.cpp : Define as funÃ§Ãµes exportadas para a aplicaÃ§Ã£o DLL.
 //
 
 #include "stdafx.h"
